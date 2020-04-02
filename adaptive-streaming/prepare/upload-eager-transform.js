@@ -8,7 +8,7 @@ const upOptions =
     { streaming_profile: 'hd', format: 'm3u8' },
     { streaming_profile: 'hd', format: 'mpd' }],
   eager_async: true,
-  eager_notification_url: 'https://webhook.site/17a3d46c-5d18-46b0-ab6c-94b12d7f645c',
+  eager_notification_url: 'https://webhook.site/e2702062-2f32-435d-b997-c245d783ed1b',
   public_id: 'whale',
   invalidate: true
 }
